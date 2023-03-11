@@ -139,4 +139,4 @@ user@ubuntu:~/AirBnB$ ./console.py
 ```
 
 ## Author
-ROBALE urgessa and Habtwolde
+Robale Urgessa and Habtwolde
